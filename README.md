@@ -2,5 +2,5 @@
 XinYueStudioEditor Power By Unreal
 
 
-1.XinYueStudioPawn 实现 Flying Movement Camera
+1.XinYueStudioPawn realization Flying Movement Camera
 
